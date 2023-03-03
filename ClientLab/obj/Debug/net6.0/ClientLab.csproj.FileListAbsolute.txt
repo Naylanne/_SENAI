@@ -1,0 +1,15 @@
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\bin\Debug\net6.0\ClientLab.exe
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\bin\Debug\net6.0\ClientLab.deps.json
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\bin\Debug\net6.0\ClientLab.runtimeconfig.json
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\bin\Debug\net6.0\ClientLab.dll
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\bin\Debug\net6.0\ClientLab.pdb
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.csproj.AssemblyReference.cache
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.AssemblyInfoInputs.cache
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.AssemblyInfo.cs
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.csproj.CoreCompileInputs.cache
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.dll
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\refint\ClientLab.dll
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.pdb
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ClientLab.genruntimeconfig.cache
+C:\Users\nayla\OneDrive\Documentos\_SENAI\ClientLab\obj\Debug\net6.0\ref\ClientLab.dll
